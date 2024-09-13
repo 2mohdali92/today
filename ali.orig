@@ -1,6 +1,9 @@
 this is first commit
-<<<<<<< HEAD
-this is second commit
-=======
 this is 2nd commit
+<<<<<<< HEAD
+third commit
+||||||| 3f3dbe1
+=======
+third commit
+5th commit
 >>>>>>> ali
